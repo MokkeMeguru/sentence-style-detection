@@ -1,0 +1,23 @@
+style detection
+
+simple-classification
+
+epoch: 499
+train loss: 0.534994, train acc: 76.81% eval . loss: 0.637, val . acc: 63.66%
+Test Loss: 0.617, Test Acc: 61.74%
+
+-> text cleaning
+
+epoch: 500
+train loss: 0.539128, train acc: 76.60% eval . loss: 0.739, val . acc: 73.94%
+Test Loss: 0.746, Test Acc: 74.56%
+
+-> cnn classification
+
+epoch: 500
+train loss: 0.011, train_acc: 99.39%, val . loss: 1.061, val . acc: 86.91%
+test loss: 0.223, test acc: 97.14%
+
+
+# TODO
+use word vector from anything
