@@ -1,0 +1,5 @@
+venv/*
+japanese-corpus/*
+or-corpus/*
+.idea/*
+__pycache__/*
